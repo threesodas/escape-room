@@ -22,7 +22,7 @@ echo  .
 echo  People with permission:
 echo  -Prodski
 echo  -JG
-echo  If you want access to edit files then please email me, luke.gobin@fwastudents.org
+echo  If you want access to edit files then please email me, email redacted for privacy
 echo  Notice: Access to edit files can be removed at anytime.
 echo  .
 echo  Please do not share this game with others, this game is in early access.
