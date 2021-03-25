@@ -20,8 +20,8 @@ echo  --------------------------------------------------------------------------
 echo  Please do not edit the game code or copy and paste code to anything else without permission
 echo  .
 echo  People with permission:
-echo  -Luke Gobin
-echo  -Jonah Gobin
+echo  -Prodski
+echo  -JG
 echo  If you want access to edit files then please email me, luke.gobin@fwastudents.org
 echo  Notice: Access to edit files can be removed at anytime.
 echo  .
